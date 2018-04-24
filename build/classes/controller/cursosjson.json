@@ -1,0 +1,8 @@
+{
+    "cursos":[
+        { "codigo": "1", "nome": "Java Web I", "dias": "Segunda a Sexta", "professor": "Raphael Torres" },
+        { "codigo": "2", "nome": "Java Web II", "dias": "Segunda a Quinta", "professor": "Fernanda Torres" },
+        { "codigo": "3", "nome": "Java Web III", "dias": "Terça a Sexta", "professor": "Leonardo Torres" },
+        { "codigo": "4", "nome": "Java Web IV", "dias": "Quarta a Sexta", "professor": "Jader Torres" }
+    ]
+}
